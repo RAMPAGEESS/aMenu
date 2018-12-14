@@ -1,0 +1,27 @@
+- Règles générales
+
+* N'essayez pas d'exploiter le serveur ou d'agir avec une intention malveillante à son égard.
+* Ne tuez pas quelqu'un au hasard. (Connu sous le nom RDM - Aléatoire Mort Match)
+* Ne pas harceler ou ennuyer les autres joueurs. Cela comprend le fait d'être raciste ou d'essayer délibérément d'offenser les autres.
+* Ne pas spam. Cela inclut le chat vocal, le chat OOC, les publicités ou tout autre moyen de communication.
+* Ne pas propulser le minge. Cela inclut la montée, le surf, la mise à mort, le blocage, le bridge, le push, le trap ou le spam.
+* Ne créez pas de texte insultant ou inapproprié.
+* N'utilisez pas un nom de RP inapproprié.
+* Laissez les administrateurs pour faire leur travail, s'ils sont occupés alors soyez patient et attendez qu'ils aient fini
+* L'escroquerie lors de transactions de fournisseurs ou de transactions de jeu de rôle n'est pas autorisée.
+* Aucun CP aidant. Vous devez être un membre du gouvernement ou un garde du corps engagé par le maire pour assister le CP.
+* Dans l'ensemble, utilisez votre bon sens et amusez-vous.
+
+
+- Règles de construction
+
+* Pendant que vous construisez, placez un panneau indiquant "Construire" pour que les autres sachent que vous ne jouez pas de rôle.
+* Ne pas interférer avec les personnes qui ont un "Bâtiment".
+* Un joueur doit pouvoir entrer et sortir de votre bâtiment à l'aide d'un pirate clavier ou d'un lockpick.
+* Ne pas abuser de l'outil de porte en décoloration. (Utilisation du pavé numérique pour le spammer en permanence ou pour l'ouvrir et le fermer rapidement)
+* Les claviers doivent être connectés à une porte à décoloration active.
+* Les claviers doivent avoir une durée de maintien de 5 secondes pour les portes en décoloration. (Avec un retard initial de 0)
+* Ne créez pas de minuscules fissures dans votre base que les raiders ne peuvent pas voir (pièges à tête et à pied).
+* Aucun avantage désorientant tel que les salles noires, les accessoires totalement invisibles ou les effets de rayonnement du monde.
+* Ne stockez pas d'entités sur des toits inaccessibles ou des zones inaccessibles en général.
+* Les bases du ciel ne sont pas autorisées.
