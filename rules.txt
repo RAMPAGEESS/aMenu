@@ -8,9 +8,5 @@
 * N'utilisez pas un nom RP inapproprié.
 * Laissez les administrateurs faire leur travail, s'ils sont occupés alors soyez patient et attendez qu'ils aient fini
 * Dans l'ensemble, utilisez votre bon sens et amusez-vous.
-
-
-- Règles de construction
-
 * Un joueur doit pouvoir entrer et sortir de votre bâtiment à l'aide d'un keypad cracker ou d'un lockpick
 * Ne stockez pas d'entités sur des toits inaccessibles ou des zones inaccessibles en général.
