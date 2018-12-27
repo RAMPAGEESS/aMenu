@@ -1,4 +1,4 @@
-- Règles générales
+- Règles
 
 * N'essayez pas d'exploiter le serveur ou d'agir avec une intention malveillante à son égard.
 * Ne tuez pas quelqu'un au hasard. ( Freekill ) 
